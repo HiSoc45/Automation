@@ -1,0 +1,11 @@
+Read Me:
+
+Create a new directory for your website project.
+Install Node.js if you haven't already.
+Copy the script into a new file in the project directory, e.g., build-website.js.
+Open a terminal, navigate to the project directory, and run the command node build-website.js.
+The script will create a directory structure for your website with the HTML, CSS, and JavaScript files.
+Customize the HTML, CSS, and JavaScript content in the websiteStructure object to fit your business website's needs.
+After running the script, you will have a basic website structure with an index, about, and contact page. You can further modify the content and add additional pages as required. Remember to add your website assets (images, additional CSS, etc.) to the appropriate directories and link them in the HTML files.
+
+Please note that this script is a starting point for building a basic website structure. For more complex websites, you may need additional automation or build tools
